@@ -14,13 +14,13 @@
 // document.write(a)
 // it will only return you the integers it will hide all dacimal value it means after dot all value are removed
 
-var a = Math.max(-1 , -2 , -3 , -4 , 0)
-document.write(a)
+// var a = Math.max(-1 , -2 , -3 , -4 , 0)
+// document.write(a)
 // it will always return you the bigest value
 
-// var a = Math.ceil(1.1)
-// document.write(a)
-// it will give you upper value
+var a = Math.min(1.1 , -2 , -3 , -4 , -5)
+document.write(a)
+// it will always 
 
 // var a = Math.ceil(1.1)
 // document.write(a)
