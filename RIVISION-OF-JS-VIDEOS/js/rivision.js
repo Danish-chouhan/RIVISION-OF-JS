@@ -78,4 +78,4 @@
 // 52-55 forEach loop
 // 57-65 forIn loop
 // 67-70 map Method
-// all done from this js file
+// all done from this js
