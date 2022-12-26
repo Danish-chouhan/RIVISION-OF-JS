@@ -13,3 +13,32 @@
 // a[0]
 // // const a = 1
 // console.log(a)
+
+
+// var a = 100
+
+// if(a >= 99 && a <=111 ){
+//     document.write("true")
+// }else{
+//     document.write("false")
+// }
+// this can show you when all two statement is write
+
+// var a = 100
+
+// if(a >= 111 || a <= 111 ){
+//     document.write("true")
+// }else{
+//     document.write("false")
+// }
+// this can show when one of them is true
+
+
+// var a = 100
+
+// if(!a >= 99){
+//     document.write("true")
+// }else{
+//     document.write("false")
+// } 
+// this will always show you opposit of them (true -> false) (false -> true);
