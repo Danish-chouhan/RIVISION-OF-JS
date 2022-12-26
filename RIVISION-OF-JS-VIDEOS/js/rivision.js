@@ -48,3 +48,8 @@
 // var b;
 // b = (a == 100)? "true" : "false";
 // document.write(b)
+
+var a = ['Danish','fayyaz','salim','raju']
+a.forEach(function(value , index){
+    document.write("( "+ value + " : " + index + " )" + "<br>")
+})
