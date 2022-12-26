@@ -42,3 +42,9 @@
 //     document.write("false")
 // } 
 // this will always show you opposit of them (true -> false) (false -> true);
+
+
+// var a = 100
+// var b;
+// b = (a == 100)? "true" : "false";
+// document.write(b)
