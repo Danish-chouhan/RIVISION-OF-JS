@@ -49,7 +49,17 @@
 // b = (a == 100)? "true" : "false";
 // document.write(b)
 
-var a = ['Danish','fayyaz','salim','raju']
-a.forEach(function(value , index){
-    document.write("( "+ value + " : " + index + " )" + "<br>")
-})
+// var a = ['Danish','fayyaz','salim','raju']
+// a.forEach(function(value , index){
+//     document.write("( "+ value + " : " + index + " )" + "<br>")
+// })
+
+// var a = {
+//     Name : "Danish-chouhan",
+//     class : "11th",
+//     passion : "codding"
+// }
+
+// for(var key in a){
+//     document.write(key + " : " + a[key] + "<br>")
+// }
