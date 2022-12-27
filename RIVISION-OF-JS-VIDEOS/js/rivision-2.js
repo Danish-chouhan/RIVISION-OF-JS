@@ -24,27 +24,29 @@
 
 // var a = Math.sqrt(4)
 // document.write(a)
-// it will give you upper value
+// it will show you the square root of which number
 
 // var a = Math.cbrt(8)
 // document.write(a)
-// it will give you upper value
+// it will show you the cube root of which number
 
 // var a = Math.pow(2,5)
 // document.write(a)
-// it will give you upper value
+// it will always count like the powers it mean 2's power 5 = 32
 
-var a = Math.random() 
-document.write(a)
-// it will give you upper value
-
-
-// var a = Math.ceil(1.1)
+// var a = Math.random() 
 // document.write(a)
-// it will give you upper value
+// it will always gives you random numbers
 
-// var a = Math.ceil(1.1)
+
+// var a = Math.abs(1.1)
 // document.write(a)
-// it will give you upper value
+// it will reture same number
+
+// var a = Math.PI
+// document.write(a)
+// it will give you the value of pai and thats is 3.14 from according to gogle
 
 // -5 -4 -3 -2 -1 0 1 2 3 4 5
+
+// these are math methods
