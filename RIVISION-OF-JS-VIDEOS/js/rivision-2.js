@@ -18,12 +18,13 @@
 // document.write(a)
 // it will always return you the bigest value
 
-var a = Math.min(1.1 , -2 , -3 , -4 , -5)
-document.write(a)
-// it will always 
-
-// var a = Math.ceil(1.1)
+// var a = Math.min(1.1 , -2 , -3 , -4 , -5)
 // document.write(a)
+// it will always show you smaller value
+
+
+var a = Math.sqrt(4)
+document.write(a)
 // it will give you upper value
 
 // var a = Math.ceil(1.1)
