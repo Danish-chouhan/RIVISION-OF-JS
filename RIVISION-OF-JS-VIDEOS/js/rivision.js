@@ -64,7 +64,17 @@
 //     document.write(key + " : " + a[key] + "<br>")
 // }
 
-var a = [1,2,3,4,5,6,7,8,9,10]
-a.map(function(x){
-    document.write(x * 5 + " ")
-})
+// var a = [1,2,3,4,5,6,7,8,9,10]
+// a.map(function(x){
+//     document.write(x * 5 + " ")
+// })
+
+
+
+
+// 1-16 var types
+// 18-45 logical operator
+// 47-50 conditional theranary
+// 52-55 forEach loop
+// 57-65 forIn loop
+// 67-70 map Method
